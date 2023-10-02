@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test project</string>
+    <string name="message_1">hello there! This is a message from me.</string>
+</resources>
